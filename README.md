@@ -1,0 +1,2 @@
+# apenasNumeros
+   Esse foi um dos primeiros testes que fiz quando comecei a estudar HTML e JS. A ideia do exercício era mostrar um alerta na página inicial pedindo que o usuário digitasse a idade e, em seguida, apareceria na tela "A sua idade é " concatenado com a idade escrita. Pensando como usuário, que muito provavelmente escreveria na barra "15 anos" ou qualquer outra letra, pensei em exibir uma mensagem expecificando que seria necessário apenas números.
